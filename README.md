@@ -1,3 +1,1 @@
-- [] - Adicionar description
-- [] - Deletar todo.
-- [] - Renomear todo
+Teste
